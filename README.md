@@ -1,5 +1,5 @@
 # scss-compiler
-Script to convert and compress Sass file into CSS file 
+Grunt script to convert and compress Sass file into CSS file.
 
 ## Usage
 
@@ -9,8 +9,7 @@ To run scss-compiler on your command line:
 
 `grunt`
 
-scss-compiler will convert files in 'src' folder into 'build' folder
-
+scss-compiler will convert files in 'src' folder into 'build' folder.
 
 
 <!--
