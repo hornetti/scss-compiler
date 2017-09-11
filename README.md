@@ -3,9 +3,9 @@ Grunt script to convert and compress Sass file into CSS file.
 
 ## Install
 
-To install scss-compiler before install [node LTS](https://nodejs.org/it/) and [git](https://git-scm.com/).
+* To install scss-compiler before install [node LTS](https://nodejs.org/it/) and [git](https://git-scm.com/).
 
-Clone the Repo and change directory into scss-compiler
+* Clone the Repo and change directory into scss-compiler
 
 `git clone https://github.com/hornetti/scss-compiler.git`
 
@@ -13,7 +13,7 @@ and
 
 `cd scss-compiler`
 
-Then install npm: 
+* Then install npm: 
 
 `npm install npm -g`
 
