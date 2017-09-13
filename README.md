@@ -3,9 +3,9 @@ Grunt script to convert and compress Sass file into CSS file.
 
 ## Install
 
-To install scss-compiler before install [node](https://nodejs.org/it/) and [git](https://git-scm.com/).
+To install scss-compiler you have to install [node](https://nodejs.org/it/) and [git](https://git-scm.com/) first.
 
-first clone the Repo and then change directory into scss-compiler
+clone the Repo and change directory into scss-compiler
 
 `git clone https://github.com/hornetti/scss-compiler.git`
 
@@ -27,16 +27,9 @@ To run scss-compiler on your command line:
 
 `grunt`
 
-scss-compiler will convert files *in* **'src' folder** *into* **'build' folder**.
+scss-compiler will convert your files *from* **'src' folder** *to* **'build' folder**.
 
 <!--
-## Install git and npm
-
-TODO: Write install git and npm
-
-## Install scss-compiler
-
-TODO: Write install
 
 ## Credits
 
