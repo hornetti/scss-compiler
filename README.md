@@ -29,7 +29,7 @@ after that install all the dependencies:
 
 To run scss-compiler on your command line:
 
-`grunt`
+`grunt` or `grunt start` for watch task
 
 scss-compiler will convert your files *from* **'src' folder** *to* **'build' folder**.
 
