@@ -32,14 +32,3 @@ To run scss-compiler on your command line:
 `grunt` for compile task
 
 scss-compiler will convert your files *from* **'src' folder** *to* **'build' folder**.
-
-<!--
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
--->
